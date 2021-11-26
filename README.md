@@ -23,7 +23,7 @@ soo=np.linalg.matrix_rank(a)
 print(soo)
 
 ## Output:
-!output(t)
+!output()
 ## Result:
 Thus the rank for the given matrix is successfully solved by  using a python program.
 
